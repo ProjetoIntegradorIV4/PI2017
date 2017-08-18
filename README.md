@@ -1,6 +1,15 @@
 # PI2017
 Projeto Integrador IV4 2017 
 
+# MATERIAIS
+
+Material de Laravel - PHP<br>
+https://github.com/Webschool-io/Curso-PHP-Laravel-Completo-E-Total<br>
+http://www.schoolofnet.com/curso-iniciando-com-laravel/<br><br>
+
+Video-aulas:<br>
+http://www.schoolofnet.com/curso-iniciando-com-laravel/<br>
+
 # Sumário
 
 ### 1.COMPONENTES<br>
