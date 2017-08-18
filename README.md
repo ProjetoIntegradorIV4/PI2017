@@ -42,24 +42,8 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
         
  
-### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-#### 8.1 DETALHAMENTO DAS INFORMAÇÕES
-        Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a :
-        a) obtenção dos dados
-        b) obtenção de códigos reutilizados
-        c) fontes de estudo para desenvolvimento do projeto
-        
-#### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        c) inclusão das instruções para execução de outros procedimentos necessários
 
-
-        Entrega até este ponto em (data a ser definida)
-        
-
-### 9	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+### 8	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
         
-### 10  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+### 9  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
