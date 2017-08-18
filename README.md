@@ -7,7 +7,7 @@ Projeto Integrador IV4 2017
 Integrantes do grupo<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto integrador <nome do projeto> e motivação da escolha realizada. <br>
 
 ### 3.MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
