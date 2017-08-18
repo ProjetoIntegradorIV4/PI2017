@@ -4,7 +4,9 @@ Projeto Integrador IV4 2017
 # Sumário
 
 ### 1.COMPONENTES<br>
-Integrantes do grupo<br>
+Vinicius<br>
+Milena<br>
+Jairo<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto integrador <nome do projeto> e motivação da escolha realizada. <br>
