@@ -21,7 +21,19 @@ Jairo<br>
 Este documento contém a especificação do projeto integrador <nome do projeto> e motivação da escolha realizada. <br>
 
 ### 3.MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+O objetivo deste site é divulgar bares e restaurantes no Espírito Santo com o intuito de encontrar 
+esses dos estabelecimentos para facilitar e saber as opiniões de quem já visitou o local.
+Para o dono divulgar o estabelecimento precisará de fazer um pré-requisito preenchendo os dados 
+online, contendo o local, CNPJ e nome do proprietário. Depois disto uma pessoa responsável pelo 
+ambiente virtual fará uma análise da solicitação para conceder a permissão de participação.
+Depois disso o estabelecimento poderá fazer atualizações, contendo o cardápio, eventos com 
+horários e dias, preços e promoções.
+Para o cliente utilizar a página, ele precisará de cadastrar um Facebook ou e-mail, ele poderá 
+pesquisar por categorias e municípios. A partir do seu ponto inicial, terá uma rota até o 
+estabelecimento, o usuário terá a opção de receber a notificação do estabelecimento se ocorrer 
+alguma atualização. Para facilitar a procura no site a pessoa já pode adicionar aos favoritos direto na
+página, ele pode compartilhar nas redes sociais para obter maior marketing à página e o 
+estabelecimento.  <br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
