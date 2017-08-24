@@ -1,7 +1,7 @@
 # PI2017 - WebPub
 Projeto Integrador IV4 2017 
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "mapinha")
+![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/mapinha.png)
 
 # MATERIAIS
 
