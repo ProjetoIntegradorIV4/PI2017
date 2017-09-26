@@ -20,7 +20,7 @@ Milena<br>
 Jairo<br>
 
 ### 2.APRESENTAÇÃO<br>
-![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/WebPub.pdf) <br>
+!Slides de apresentação(https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/WebPub.pdf) <br>
 
 ### 3.MINI-MUNDO<br>
 O objetivo deste site é divulgar bares e restaurantes no Espírito Santo com o intuito de encontrar 
