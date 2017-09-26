@@ -1,7 +1,7 @@
 # PI2017 - WebPub
 Projeto Integrador IV4 2017 
 
-![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/mapinha.png)
+![Slides de apresentação](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/mapinha.png)
 
 # MATERIAIS
 
