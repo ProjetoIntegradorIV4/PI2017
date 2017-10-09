@@ -5,12 +5,12 @@ Projeto Integrador IV4 2017
 
 # MATERIAIS
 
-Material de Laravel - PHP<br>
-https://github.com/Webschool-io/Curso-PHP-Laravel-Completo-E-Total<br>
-http://www.schoolofnet.com/curso-iniciando-com-laravel/<br><br>
+Material de Flask<br>
+https://tutorial.djangogirls.org/pt/<br>
+<br>
 
 Video-aulas:<br>
-http://www.schoolofnet.com/curso-iniciando-com-laravel/<br>
+https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX<br>
 
 # Sumário
 
@@ -24,19 +24,18 @@ Slides de apresentação:<br>
 https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/WebPub.pdf) <br>
 
 ### 3.MINI-MUNDO<br>
-O objetivo deste site é divulgar bares e restaurantes no Espírito Santo com o intuito de encontrar 
-esses dos estabelecimentos para facilitar e saber as opiniões de quem já visitou o local.
-Para o dono divulgar o estabelecimento precisará de fazer um pré-requisito preenchendo os dados 
-online, contendo o local, CNPJ e nome do proprietário. Depois disto uma pessoa responsável pelo 
+O objetivo deste site é divulgar bares e restaurantes do Espírito Santo com o intuito de encontrar
+esses dois estabelecimentos com mais facilidade e saber as opiniões de quem já visitou o local .
+Para o dono divulgar o estabelecimento precisará fazer um pré-requisito preenchendo os dados
+online, contendo o local, sexo, CNPJ e nome do proprietário. Depois disso uma pessoa responsável pelo
 ambiente virtual fará uma análise da solicitação para conceder a permissão de participação.
-Depois disso o estabelecimento poderá fazer atualizações, contendo o cardápio, eventos com 
-horários e dias, preços e promoções.
-Para o cliente utilizar a página, ele precisará de cadastrar um Facebook ou e-mail, ele poderá 
-pesquisar por categorias e municípios. A partir do seu ponto inicial, terá uma rota até o 
-estabelecimento, o usuário terá a opção de receber a notificação do estabelecimento se ocorrer 
-alguma atualização. Para facilitar a procura no site a pessoa já pode adicionar aos favoritos direto na
-página, ele pode compartilhar nas redes sociais para obter maior marketing à página e o 
-estabelecimento.  <br>
+Assim o estabelecimento poderá fazer atualizações, contendo o cardápio, eventos (incluindo horário e dia),
+preços e promoções.
+Para o cliente utilizar a página, ele precisará fazer o cadastro utilizando o Facebook ou e-mail, assim poderá
+pesquisar por categorias, curtir ou deixar a opinião nos comentários. Baseado na quantidade de curtidas que o 
+estabelecimento possui poderá aparecer na pagina inicial como o melhor avaliado. Além disso, o usuário terá a 
+opção de receber a notificação do estabelecimento se ocorrer alguma atualização e direto da página compartilhar 
+nas redes sociais para obter maior ‘marketing’ à página e o local.<br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 https://ninjamock.com/s/WTRVWWx <br>
