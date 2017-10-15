@@ -1,7 +1,8 @@
-#![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/webpub.png)
-Projeto Integrador IV4 2017 
+![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/webpub.png)
 
 ![Slides de apresentação](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/mapinha.png)
+
+#Projeto integrador IV4 2017
 
 # MATERIAIS
 
@@ -18,6 +19,8 @@ https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip
 Vinicius<br>
 Milena<br>
 Jairo<br>
+
+Orientador: Daniel Ribeiro
 
 ### 2.APRESENTAÇÃO<br>
 Slides de apresentação:<br>
