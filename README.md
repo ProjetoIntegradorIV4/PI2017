@@ -42,7 +42,7 @@ https://ninjamock.com/s/WTRVWWx <br>
 
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/conceitual.jpg)
     
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
