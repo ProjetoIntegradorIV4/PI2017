@@ -1,6 +1,6 @@
-![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/webpub.png)
+![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/IMAGENS/webpub.png)
 
-![Slides de apresentação](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/mapinha.png)
+![Slides de apresentação](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/IMAGENS/mapinha.png)
 
 # Projeto integrador IV4 2017
 
@@ -24,7 +24,7 @@ Orientador: Daniel Ribeiro
 
 ### 2.APRESENTAÇÃO<br>
 Slides de apresentação:<br>
-https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/WebPub.pdf) <br>
+https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/PDF/WebPub.pdf) <br>
 
 ### 3.MINI-MUNDO<br>
 O objetivo deste site é divulgar bares e restaurantes do Espírito Santo com o intuito de encontrar
@@ -45,7 +45,7 @@ https://ninjamock.com/s/WTRVWWx <br>
 
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/conceitual.jpg)
+![Alt text](https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/IMAGENS/conceitual.jpg)
     
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
