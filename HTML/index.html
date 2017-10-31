@@ -1,0 +1,263 @@
+<!doctype html>
+	<html>
+		<head><meta charset = "utf-8">
+		<link rel="stylesheet" href ="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+			<title>WebPub - Página inicial</title>
+			<style>
+				body{
+					background-color:#F3E5AB;
+					font-family:verdana;
+				}
+				.f-cabecalho{
+					background:url(https://i.imgur.com/k98s0fQ.png);
+					background-repeat: no-repeat;
+					background-size:100%;
+				}
+				.logo{
+					weight:150%;
+					width:150%;
+				}
+				.barra{
+					padding-top:1%;
+					padding-bottom:0.5%;
+				}
+				.centro{
+					text-align:center;
+					line-height:120%;
+				}
+				.redondo{
+					border-radius:20px;
+					border-color:black;
+				}
+				.fcinza1{
+					color:#DDE0DD;
+				}
+				.cinza1{
+					background-color:#DDE0DD;
+				}
+				.cinza2{
+					background-color:#8E9890;
+					margin-top:-100%
+					margin-bottom:-100%;
+				}
+				.login{
+					border:solid;
+					border-color:ash;
+					border-radius:30px;
+					margin-top:10%;
+					background-color:#F0F8FF;
+				}
+				.login2{
+					padding-top:2%;
+					border-bottom-style: solid;
+					border-bottom-color: ash;
+				}
+				.cont1{
+					border:solid;
+					border-color:ash;
+					border-radius:3px;
+					margin-top:10%;
+					background-color:#8E9890;
+					padding:2%;
+				}
+				.fonte1{
+					font-size:150%;
+					font-weight:bold;
+				}
+				.espaco{
+					padding-top:1%;
+					padding-bottom:2%;
+				}
+				.espaco2{
+					padding-top:1%;
+					padding-bottom:1%;
+				}
+				.espaco3{
+					padding-top:2%;
+					padding-bottom:2%;
+				}
+				.botao{
+					background-color:white;
+					color:ash;
+					font-size:100%;
+					border:solid ash;
+					border-radius:4px;
+					margin-top:10%;
+				}
+				form{
+					position:relative;
+				}
+				.rodape{
+					background-color:#8E9890;
+					padding-top:1%;
+					padding-bottom:1%;
+					margin-top:3%;
+				}
+				.central{
+					text-align:center;
+				}
+				.box{
+					background-color:#FFFFDD;
+					font-family:verdana;
+					font-size:100%;
+					border: 3px solid;
+					border-color: #F3E5AB;
+					margin-top:3%;
+				}
+				.bemvindo{
+					font-family:verdana;
+					font-size:250%;
+					font-weight:bold;
+				}
+				.topper{
+					font-family:verdana;
+					font-size:180%;
+					font-weight:bold;
+				}
+			</style>
+		</head>
+		<body>
+			<div class="container-fluid">
+				<div class="row f-cabecalho">
+					<div class="col-sm-3">
+						<img class=" logo img-responsive" src="http://i.imgur.com/Flq0TfA.png">
+					</div>
+					<div class="col-sm-5">
+					</div>
+					<div class="col-sm-4">
+						<img class="logo2 img-responsive" src="https://github.com/ProjetoIntegradorIV4/PI2017/blob/master/webpub.png?raw=true">
+					</div>
+				</div>
+				<div class="row barra cinza1">
+					<div class="col-sm-3">
+						<div class="container-fluid">
+							<div class="col-sm-3">
+								<div class="centro">
+									Home
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="centro">
+									Ranking
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="centro">
+									Estabelecimentos
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="container-fluid">
+							<div class="col-sm-5">
+								<div class="centro">
+									Seja associado
+								</div>
+							</div>
+							<div class="col-sm-7">
+								<div>
+									<div class="sidebar-search">
+										<form class="sidebar-search-form" method="get">
+											<fieldset>
+												<input class="redondo" type="text" value="Pesquise aqui" size="30" id="search" name="search">
+												<input class="redondo" style="background-color:red" type="submit" class="search-submit" value="Buscar">
+											</fieldset>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="container-fluid">
+							<div class="col-sm-4">
+							</div>
+							<div class="col-sm-4">
+								<div class="centro">
+									<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.10&appId=139417523359780';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+									<div class="fb-login-button" data-max-rows="1" data-size="small" data-button-type="login_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false"></div>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="centro">
+									Registrar
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2">
+					</div>
+					<div class="col-sm-8">
+						<div class="container-fluid cont1">
+							<div class="row">
+								<div class="col-sm-7">
+								</div>
+								<div class="col-sm-5">
+									<div class="bemvindo">
+									Bem vindo!<br>
+									</div>
+									<div class="box">
+										Texto do restaurante
+									</div>
+								</div>
+							</div>
+						</div>
+					<div class="col-sm-2">
+					</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-2">
+					</div>
+					<div class="col-sm-8">
+						<div class="container-fluid cont1">
+							<div class="central topper">
+								TOP 5
+							</div>
+							<div class="row">
+								<div class="col-sm-7">
+								</div>
+								<div class="col-sm-5">
+									<div class="bemvindo">
+									Nome do restaurante<br>
+									</div>
+									<div class="box">
+										Texto do restaurante
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-10">
+								</div>
+								<div class="col-sm-2">
+									<button class="botao">Visualizar >>></button>
+								</div>
+							</div>
+						</div>
+					<div class="col-sm-2">
+					</div>
+					</div>
+				</div>
+				<div class="row rodape">
+					<div class="col-sm-4">
+					</div>
+					<div class="col-sm-4 central">
+						2017 WebPub ®<br>
+						Todos os direitos reservados						
+					</div>
+					<div class="col-sm-4">
+					</div>
+				</div>
+			</div>
+		</body>
+	</html>
